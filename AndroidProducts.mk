@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/carbon_phoenix.mk
+    $(LOCAL_DIR)/dot_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    carbon_phoenix-user \
-    carbon_phoenix-userdebug \
-    carbon_phoenix-eng
+    dot_phoenix-user \
+    dot_phoenix-userdebug \
+    dot_phoenix-eng
